@@ -48,6 +48,8 @@ Pilihan menu:
 - 4: Memanggil fungsi ubah(nama).
 - 5: Menghentikan program.
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/59538a06fb09fddd161ce4374a5a9d2a8f03cd61/Cuplikan%20layar%202024-12-02%20204224.png)
+
 
 
 
