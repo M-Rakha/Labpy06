@@ -50,6 +50,12 @@ Pilihan menu:
 
 ![gambar](https://github.com/M-Rakha/Labpy06/blob/59538a06fb09fddd161ce4374a5a9d2a8f03cd61/Cuplikan%20layar%202024-12-02%20204224.png)
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/b57c3236828450e9d494684d7eeea6a7c5e7530a/Cuplikan%20layar%202024-12-02%20204249.png)
+
+## Step 7 : Closed Program
+
+Pakai menu() untuk memulai sebuah program ketika dirun :
+
 
 
 
