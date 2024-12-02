@@ -73,7 +73,7 @@ Kondisi pertama kita akan coba melihat tabel dengan inputkan 2 tampa menambahkan
 Kondisi kedua selanjutnya mencoba menambahkan data mahasiswa pada tabel, dengan menginputkan 1 untuk menambahkan data mahasiswa.
 
 Untuk perawalan, mencoba memasukan satu data mahasiswa :
-- Nama : Muhammad Rakha Ghani
+- Nama : MUHAMMAD RAKHA GHANI
 - Nilai : 89
 
 ![gambar](https://github.com/M-Rakha/Labpy06/blob/c5f1aa4b04e6b8f812a7ed02cfa4095bec2b9ba5/Cuplikan%20layar%202024-12-02%20205343.png)
@@ -82,6 +82,15 @@ Untuk perawalan, mencoba memasukan satu data mahasiswa :
 
 Selanjutnya, kondisi ketiga kembali dengan menginputkan 2 untuk melihat daftar data mahasiswa pada tabel, namun dari kondisi sebelumnya yang sudah menambahkan data mahasiswa saya coba tambahkan 3 data mahasiswa lagi. maka akan terlihat pada isi tabel :
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/528103978b9b01cdd0e5b243e6ac1c27bef6efe7/Cuplikan%20layar%202024-12-02%20210126.png)
+
+### Case 4 :
+
+Masuk kondisi keempat kita akan coba mengubah data, ada data yang salah diinputkan pada Nilai Mahasiswa 89 diubah menjadi 90, sebelum itu inputkan 4 untuk mengubah maka akan ditampilkan daftar nilai tabel dan diminta untuk memasukan nama mahasiswa yang ingin diubah data nilai -nya. User diminta memasukan kembali data valid yang akan diubah.
+
+Coba memasukan data mahasiswa berikut :
+- Nama : MUHAMMAD RAKHA GHANI
+- Nilai : 90
 
 
 
