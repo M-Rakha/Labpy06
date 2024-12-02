@@ -66,4 +66,19 @@ Tahap akhir adalah uji coba code program yang sudah dibuat dengan mencoba berbag
 
 Kondisi pertama kita akan coba melihat tabel dengan inputkan 2 tampa menambahkan data/masih kosong, maka akan ditampilkan isi tabel masih belum ada datanya, akan ditampilkan 'Belum ada Data Mahasiswa' :
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/3ebf36c70a43f9fb34c2d45693a02f74ba7e0a51/Cuplikan%20layar%202024-12-02%20204820.png)
+
+### Case 2 :
+
+Kondisi kedua selanjutnya mencoba menambahkan data mahasiswa pada tabel, dengan menginputkan 1 untuk menambahkan data mahasiswa.
+
+Untuk perawalan, mencoba memasukan satu data mahasiswa :
+- Nama : Muhammad Rakha Ghani
+- Nilai : 89
+
+
+
+
+
+
 
