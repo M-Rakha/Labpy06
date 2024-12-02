@@ -22,7 +22,11 @@ Fungsi ini untuk menambahkan data mahasiswa baru yang akan diproses sebagai :
 
 Fungsi ini digunakan untuk menampilkan data nilai mahasiswa ke dalam data_mahasiswa. Tujuan dapat menampilkan seluruh data mahasiswa. Menu ini mampu mengecek apakah data_mahasiswa kosong, Jika tidak kosong data ditampilkan dalam bentuk tabel sesuai data yang telah ditambahkan, Menggunakan enumerate untuk memberikan nomor pada setiap mahasiswa dalam daftar :
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/f821be5bd864138bd3116716016438a197d0efd2/Cuplikan%20layar%202024-12-02%20202754.png)
 
+## Step 4 : Fungsi hapus(nama)
+
+Menghapus data mahasiswa berdasarkan nama yang dimasukan/input, sebagai proses menggunakan list comprehension untuk membuat daftar baru yang tidak berisi mahasiswa dengan nama yang dimasukkan, variabel data_mahasiswa diperbarui dengan daftar baru ini :
 
 
 
