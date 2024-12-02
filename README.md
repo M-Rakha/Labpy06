@@ -28,6 +28,16 @@ Fungsi ini digunakan untuk menampilkan data nilai mahasiswa ke dalam data_mahasi
 
 Menghapus data mahasiswa berdasarkan nama yang dimasukan/input, sebagai proses menggunakan list comprehension untuk membuat daftar baru yang tidak berisi mahasiswa dengan nama yang dimasukkan, variabel data_mahasiswa diperbarui dengan daftar baru ini :
 
+![gambar])(https://github.com/M-Rakha/Labpy06/blob/bd8ffa4c1c81f6f42e0883088c37106aad980d87/Cuplikan%20layar%202024-12-02%20202956.png)
+
+## Step 5 : Fungsi ubah(nama)
+
+Fungsi yang akan mengubah nilai mahasiswa berdasarkan nama yang dimasukan/input, mencari data mahasiswa dengan nama tertentu di dalam data_mahasiswa. Jika data ditemukan, maka nilai mahasiswa tersebut diperbarui sesuai input pengguna :
+
+
+
+
+
 
 
 
