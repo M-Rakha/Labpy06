@@ -34,9 +34,19 @@ Menghapus data mahasiswa berdasarkan nama yang dimasukan/input, sebagai proses m
 
 Fungsi yang akan mengubah nilai mahasiswa berdasarkan nama yang dimasukan/input, mencari data mahasiswa dengan nama tertentu di dalam data_mahasiswa. Jika data ditemukan, maka nilai mahasiswa tersebut diperbarui sesuai input pengguna :
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/afb565e68b9b4e42449ee1b75d5fa68aa50f7042/Cuplikan%20layar%202024-12-02%20203209.png)
 
+## Step 6 : Fungsi menu()
 
+Menyediakan Tampilan menu sebagai opsi pengguna, menggunakan perulangan while untuk terus menampilkan menu namun untuk menghentikan program masukan break sebagai perhentian :
 
+Pilihan menu:
+
+- 1: Memanggil fungsi tambah().
+- 2: Memanggil fungsi tampilkan().
+- 3: Memanggil fungsi hapus(nama).
+- 4: Memanggil fungsi ubah(nama).
+- 5: Menghentikan program.
 
 
 
