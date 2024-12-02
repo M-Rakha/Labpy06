@@ -92,6 +92,14 @@ Coba memasukan data mahasiswa berikut :
 - Nama : MUHAMMAD RAKHA GHANI
 - Nilai : 90
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/365db489755ee56c532d3f321479fdeb9d46126d/Cuplikan%20layar%202024-12-02%20210651.png)
+
+### Case 5 :
+
+Kondisi keenam, kita mencoba menghapus sebuah data mahasiswa dengan menginputkan 3 untuk menghapuskan data mahasiswa lalu user diminta memasukan nama mahasiswa yang akan dihapus :
+
+
+
 
 
 
