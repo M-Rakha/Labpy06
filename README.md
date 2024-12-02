@@ -76,7 +76,11 @@ Untuk perawalan, mencoba memasukan satu data mahasiswa :
 - Nama : Muhammad Rakha Ghani
 - Nilai : 89
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/c5f1aa4b04e6b8f812a7ed02cfa4095bec2b9ba5/Cuplikan%20layar%202024-12-02%20205343.png)
 
+### Case 3 :
+
+Selanjutnya, kondisi ketiga kembali dengan menginputkan 2 untuk melihat daftar data mahasiswa pada tabel, namun dari kondisi sebelumnya yang sudah menambahkan data mahasiswa saya coba tambahkan 3 data mahasiswa lagi. maka akan terlihat pada isi tabel :
 
 
 
