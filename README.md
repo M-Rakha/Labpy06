@@ -16,5 +16,14 @@ Fungsi ini untuk menambahkan data mahasiswa baru yang akan diproses sebagai :
 - Data yang dimasukkan disimpan dalam bentuk dictionary {"nama": nama, "nilai": nilai}.
 - Dictionary ini ditambahkan ke dalam list data_mahasiswa menggunakan .append().
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/70b1c499657cb562d3753e291c9e18fcbb9d1013/Cuplikan%20layar%202024-12-02%20202534.png)
+
+## Step 3 : Fungsi tampilkan()
+
+Fungsi ini digunakan untuk menampilkan data nilai mahasiswa ke dalam data_mahasiswa. Tujuan dapat menampilkan seluruh data mahasiswa. Menu ini mampu mengecek apakah data_mahasiswa kosong, Jika tidak kosong data ditampilkan dalam bentuk tabel sesuai data yang telah ditambahkan, Menggunakan enumerate untuk memberikan nomor pada setiap mahasiswa dalam daftar :
+
+
+
+
 
 
