@@ -56,6 +56,14 @@ Pilihan menu:
 
 Pakai menu() untuk memulai sebuah program ketika dirun :
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/16ff634ec615b66a2756237ce6e4e10f9a4cb24d/Cuplikan%20layar%202024-12-02%20204522.png)
 
+## Step 8 : Run Program
+
+Tahap akhir adalah uji coba code program yang sudah dibuat dengan mencoba berbagai kemungkinan yang ada.
+
+### Case 1 :
+
+Kondisi pertama kita akan coba melihat tabel dengan inputkan 2 tampa menambahkan data/masih kosong, maka akan ditampilkan isi tabel masih belum ada datanya, akan ditampilkan 'Belum ada Data Mahasiswa' :
 
 
