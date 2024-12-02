@@ -108,4 +108,49 @@ Jika semua data atau program input sudah selesai semua, user dapat menginputkan 
 
 # FLOWCHART DAFTAR NILAI
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/a666ac543adea4f656e93aaccbd5d57d2bc4916a/15.png)
+
+#### Step 1 :
+
+Titik mulai sebuah program atau alur.
+
+#### Step 2 :
+
+lalu lakukan inisialisasi dengan menampilkan menu yang tersedia.
+
+#### Step 3 :
+
+Inputkan code menu yang ingin dilakukan, setiap code berisi :
+
+1. Tambah,
+2. Tampilkan,
+3. Hapus,
+4. Ubah,
+5. Keluar.
+
+#### Step 4 :
+
+Dalam kasus ini semua kemgkinan dapat terjadi, kondisi yang diperlukan sesuai apa yang akan diinoutkan user.
+
+- Jika Tampilkan, maka user akan di tampilkan sebuah tabel dari daftar nilai, namun jika tabel belum ada isi/kosong maka akan tampil Belum ada data, jika ada maka ditampilkan sebuah data nilai mahasiswa. Setelah tampilkan data maka akan kembali menuju inisialisasi menu.
+
+- Jika Tambah, user diminta memasukan sebuah data yang berupa :
+
+- Nama
+- Nilai
+
+Lalu User akan diarahkan kembali ke inisialiasi menu.
+
+- Jika Ubah, sama dengan Tampilkan jika tidak ada data nilai maka akan tampil tidak ada data nilai namun Ubah kalau ada data nilai user diminta menginputkan Nama Mahasiswa yang akan diubah, setelah itu diminta untuk mengisi atau menginputkan data valid yang diubah. Setelah itu user kembali ke inisialisasi menu.
+
+- Jika Hapus, user akan ditampilkan daftar nilai lalu diminta memasukan sebuah Nama yang ingin dihapus dari daftar. Setelah itu kembali ke inisialisasi menu.
+
+- jika Keluar, User akan keluar program dan program akan berhenti.
+
+# KESIMPULAN
+
+Dengan membuat code program daftar nilai ini saya pribadi dapat mengambil pelajaran, fungsi dapat memanggil sebuah data yang telah diberikan, dengan sub rutin ini kita menjadi dipermudah dengan baik. Melalui code program daftar nilai ini saya mampu memasukan sebuah data nama mahasiswa dan nilai. Adapun flowchart yang membantu saya dalam memahami alur sebuah code program yang telah saya buat.
+
+
+
 
