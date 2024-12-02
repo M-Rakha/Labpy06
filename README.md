@@ -104,6 +104,8 @@ Kondisi keenam, kita mencoba menghapus sebuah data mahasiswa dengan menginputkan
 
 Jika semua data atau program input sudah selesai semua, user dapat menginputkan 5 untuk keluar dari progam :
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/65aef981bb37a94cbb87d51acf29d3e09ff30f4e/Cuplikan%20layar%202024-12-02%20211226.png)
 
+# FLOWCHART DAFTAR NILAI
 
 
