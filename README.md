@@ -98,7 +98,11 @@ Coba memasukan data mahasiswa berikut :
 
 Kondisi keenam, kita mencoba menghapus sebuah data mahasiswa dengan menginputkan 3 untuk menghapuskan data mahasiswa lalu user diminta memasukan nama mahasiswa yang akan dihapus :
 
+![gambar](https://github.com/M-Rakha/Labpy06/blob/4187b5341905c14622c577607c643d36391a9896/Cuplikan%20layar%202024-12-02%20210953.png)
 
+### Case 6 :
+
+Jika semua data atau program input sudah selesai semua, user dapat menginputkan 5 untuk keluar dari progam :
 
 
 
